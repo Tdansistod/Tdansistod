@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📫 How to reach me / Contacto:
 - E-Mail: lautaronuriel@gmail.com
-- LinkedIn: linkedin.com/in/lautaro-waltersdorf-a89304254
+- LinkedIn: https://www.linkedin.com/in/lautaro-waltersdorf-a89304254
 <!--
 **Tdansistod/Tdansistod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
