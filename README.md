@@ -1,5 +1,8 @@
-### Hi there 👋
-- 📫 How to reach me / Contacto:
+Sobre mí:
+Soy un desarrollador independiente y autodidacta.
+estudié Desarrollo Web Full Stack en "Soy Henry".
+
+- 📫 Contacto:
 - E-Mail: lautaronuriel@gmail.com
 - LinkedIn: https://www.linkedin.com/in/lautaro-waltersdorf-a89304254
 <!--
