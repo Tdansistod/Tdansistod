@@ -1,6 +1,6 @@
-Sobre mí:
-Soy un desarrollador independiente y autodidacta.
-estudié Desarrollo Web Full Stack en "Soy Henry".
+Sobre mí: <br />
+Soy un desarrollador independiente y autodidacta. <br />
+Estudié Desarrollo Web Full Stack en "Soy Henry". <br />
 
 - 📫 Contacto:
 - E-Mail: lautaronuriel@gmail.com
