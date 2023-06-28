@@ -4,8 +4,7 @@ Estudié Desarrollo Web Full Stack en "Soy Henry". <br />
 
 Factores clave de personalidad según Mydiscprofile:
 - Exigente
-- Ativo
-- Impulsivo
+- Activo
 - Responsable
 - Aventurero
 - Orientado a resultados
