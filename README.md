@@ -1,8 +1,7 @@
 <h1 align="center">Hola 👋, soy Waltersdorf Lautaro</h1>
 <h3 align="center">Desarrollador Web Full Stack</h3>
 
-- 👨‍💻 Todos mis proyectos están disponibles en:<br>
-  <a href="https://w-desarrolloweb.com/" target="_blank" rel="noreferrer"> <img src="https://w-desarrolloweb.com/wp-content/uploads/2024/02/Logo-Grande-2.png" alt="W Desarrollo Web" width="30" height="30"/> </a>
+- 👨‍💻 Todos mis proyectos están disponibles en: <a href="https://w-desarrolloweb.com/" target="_blank" rel="noreferrer"> https://w-desarrolloweb.com/</a>
 
 - 📫 Email de Contacto: <a href="mailto:lautaronuriel@gmail.com"> lautaronuriel@gmail.com</a>
 - 📱 Número de Celular: <a href="https://wa.me/+541144400101?text=Hola,%20necesito%20un%20presupuesto"> 11 4440-0101</a>
