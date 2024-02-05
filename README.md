@@ -17,7 +17,7 @@ Soy una persona notable por la flexibilidad y el dinamismo de mi enfoque. Pienso
 
 - 📫 Contacto:
 - E-Mail: lautaronuriel@gmail.com
-- LinkedIn: https://www.linkedin.com/in/lautaro-waltersdorf-a89304254
+- LinkedIn: https://www.linkedin.com/in/lautaro-waltersdorf
 <!--
 **Tdansistod/Tdansistod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
