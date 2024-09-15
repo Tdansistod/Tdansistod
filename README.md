@@ -1,10 +1,10 @@
 <h1 align="center">Hola 👋, soy Waltersdorf Lautaro</h1>
 <h3 align="center">Desarrollador Web Full Stack</h3>
 
-- 👨‍💻 Todos mis proyectos están disponibles en: <a href="https://w-desarrolloweb.com/" target="_blank" rel="noreferrer"> https://w-desarrolloweb.com/</a>
+- 👨‍💻 Todos mis proyectos están disponibles en: <a href="https://wdiseñoweb.com/" target="_blank" rel="noopener noreferrer">wdiseñoweb.com</a>
 
-- 📫 Email de Contacto: <a href="mailto:lautaronuriel@gmail.com"> lautaronuriel@gmail.com</a>
-- 📱 Número de Celular: <a href="https://wa.me/+541144400101?text=Hola,%20necesito%20un%20presupuesto"> +54 11 4440-0101</a>
+- 📫 Email de Contacto: <a href="mailto:presupuesto@wdiseñoweb.com?Subject=Solicito%20un%20presupuesto">presupuesto@wdiseñoweb.com</a>
+- 📱 Número de Celular: <a href="https://wa.me/+541144400101?text=Hola,%20Solicito%20un%20presupuesto">+54 11 4440-0101</a>
 <h3 align="left">Plataformas:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lautaro-waltersdorf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautaro-waltersdorf" height="30" width="40" /></a>
